@@ -20,9 +20,7 @@ const Banner = () => {
             Your Problem <br /> <span className='text-accent'>Our Goal.</span>
           </h1>
           <p className='max-w-sm mx-auto mb-[50px] lg:mx-0 lg:max-w-[540px]'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima,
-            architecto corrupti! Dolores rem dicta officia nam unde modi ad
-            omnis.
+            We are a Law Firm with a Global reputation. Our lawyers have substantial experience in an extremely diverse group of practice areas.
           </p>
           {/* Appointment */}
           <div className='lg:absolute mx-auto max-w-[445px] lg:mx-0'>
